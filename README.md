@@ -1,1 +1,1 @@
-# pong-game
+# Lamp in javascript
